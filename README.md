@@ -1,16 +1,16 @@
 ![FUZION LEECH](https://telegra.ph/file/213b587eee775e34ca221.jpg)
 # Tele-LeechX Bot 
-![GitHub Repo Stars](https://img.shields.io/github/stars/5MysterySD/Tele-LeechX?color=blue&style=plastic)
-![GitHub Forks](https://img.shields.io/github/forks/5MysterySD/Tele-LeechX?color=green&style=plastic)
-![GitHub Contributors](https://img.shields.io/github/contributors/5MysterySD/Tele-LeechX?style=plastic)
-![GitHub Watchers](https://img.shields.io/github/watchers/5MysterySD/Tele-LeechX?style=plastic)
-![GitHub issues](https://img.shields.io/github/issues/5MysterySD/Tele-LeechX?style=plastic)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/5MysterySD/Tele-LeechX?style=plastic)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/5MysterySD/Tele-LeechX?style=plastic)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/5MysterySD/Tele-LeechX?style=plastic)
-![GitHub repo size](https://img.shields.io/github/repo-size/5MysterySD/Tele-LeechX?color=red?style=plastic)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/5MysterySD/Tele-LeechX?style=plastic)
-[![Bot Support](https://img.shields.io/badge/Tele_LeechX-Support%20Group-blue)](https://t.me/FuZionXLeech)
+![GitHub Repo Stars](https://img.shields.io/github/stars/Omkar47/Auto-Leech?color=blue&style=plastic)
+![GitHub Forks](https://img.shields.io/github/forks/Omkar47/Auto-Leech?color=green&style=plastic)
+![GitHub Contributors](https://img.shields.io/github/contributors/Omkar47/Auto-Leech?style=plastic)
+![GitHub Watchers](https://img.shields.io/github/watchers/Omkar47/Auto-Leech?style=plastic)
+![GitHub issues](https://img.shields.io/github/issues/Omkar47/Auto-Leech?style=plastic)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/Omkar47/Auto-Leech?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Omkar47/Auto-Leech?style=plastic)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Omkar47/Auto-Leech?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/Omkar47/Auto-Leech?color=red?style=plastic)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Omkar47/Auto-Leech?style=plastic)
+[![Bot Support](https://img.shields.io/badge/Tele_LeechX-Support%20Group-blue)](https://t.me/APDBug)
 
 **A Powerful Pyrogram Based Telegram Leech Bot** Modded by `MysterySD` to directly Leech to Telegram, with Multi Direct Links Support for Enhanced Leeching.
 
