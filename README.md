@@ -1,4 +1,4 @@
-![FUZION LEECH](https://telegra.ph/file/213b587eee775e34ca221.jpg)
+![AUTO LEECH](https://telegra.ph/file/213b587eee775e34ca221.jpg)
 # Tele-LeechX Bot 
 ![GitHub Repo Stars](https://img.shields.io/github/stars/Omkar47/Auto-Leech?color=blue&style=plastic)
 ![GitHub Forks](https://img.shields.io/github/forks/Omkar47/Auto-Leech?color=green&style=plastic)
@@ -15,7 +15,7 @@
 **A Powerful Pyrogram Based Telegram Leech Bot** Modded by `MysterySD` to directly Leech to Telegram, with Multi Direct Links Support for Enhanced Leeching.
 
 ## Demo Group
-<a href="https://t.me/FXTorrentz"><img src="https://img.shields.io/badge/FuZion Leech Bot-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/APDBug"><img src="https://img.shields.io/badge/FuZion Leech Bot-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 
 ## Features Supported :-
@@ -198,7 +198,7 @@ client_secret =
 ## Deploying on Heroku
 - Deploying on Heroku Indirectly `Supported`, Please Don't Abuse it or Share this Repo like Anything !!
 
-<p><a href="https://github.com/5MysterySD/Tele-LeechX/blob/master/heroku-deploy.md"> <img src="https://img.shields.io/badge/Deployment%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://github.com/Omkar47/Auto-Leech/blob/master/heroku-deploy.md"> <img src="https://img.shields.io/badge/Deployment%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ## Deploying on Okteto 
 
